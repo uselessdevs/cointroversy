@@ -1,6 +1,6 @@
 const HDWalletProvider = require("truffle-hdwallet-provider");
-const MNEMONIC = "doll matrix wish party dragon sibling day solve jungle nest fame theme"
-const INFURA_KEY = "553aebb642dd4f529c70cec765c43840"
+const MNEMONIC = ""
+const INFURA_KEY = ""
 
 if (!MNEMONIC || !INFURA_KEY) {
   console.error("Please set a mnemonic and infura key.")
